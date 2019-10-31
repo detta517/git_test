@@ -1,0 +1,1 @@
+This is detta517 first git project!
